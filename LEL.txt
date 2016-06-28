@@ -1,2 +1,3 @@
 Commit change 1
 Commit change 2 (side)
+Commit change 3 (side)
